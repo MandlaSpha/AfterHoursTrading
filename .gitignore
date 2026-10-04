@@ -1,0 +1,9 @@
+.env
+data/*
+!data/.gitkeep
+reports/*
+!reports/.gitkeep
+__pycache__/
+.venv/
+node_modules/
+*.ex5
